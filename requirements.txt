@@ -1,8 +1,11 @@
-uvicorn
+
 numpy
+scipy
+scikit-learn
+matplotlib
 pandas
 fastapi
-scikit-learn
-uvloops
-httptools
+uvicorn
 gunicorn==19.9.0
+uvloop
+httptools
