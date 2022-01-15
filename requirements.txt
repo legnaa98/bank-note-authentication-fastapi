@@ -1,7 +1,6 @@
 uvicorn
 numpy
 pandas
-pickle
 fastapi
 scikit-learn
 uvloops
