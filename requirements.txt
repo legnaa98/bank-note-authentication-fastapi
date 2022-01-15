@@ -1,0 +1,9 @@
+uvicorn
+numpy
+pandas
+pickle
+fastapi
+scikit-learn
+uvloops
+httptools
+gunicorn==19.9.0
